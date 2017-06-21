@@ -1,0 +1,15 @@
+{
+  "name": "bricknotifier.js",
+  "version": "1.0.1",
+  "description": "Socket.io server that emits data when a new item is released on brick hill",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peridax",
+  "license": "ISC",
+  "dependencies": {
+    "cloudscraper": "^1.4.1",
+    "socket.io": "^2.0.2"
+  }
+}
